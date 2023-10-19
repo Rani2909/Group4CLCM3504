@@ -37,3 +37,8 @@ footer {
     background-color: #D0DAEE;
     text-align: center;
 }
+.mainBlock{
+    background-color: lightgoldenrodyellow;
+    height: 670px;
+    padding: 80px;
+}
