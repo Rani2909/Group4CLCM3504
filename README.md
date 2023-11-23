@@ -42,7 +42,7 @@ As an entry-level member of a technology-focused program, your mission is to bui
 
 - GitHub Actions is the thing that use in this project [link](https://github.com/Rani2909/Group4CLCM3504/blob/main/.github/workflows/Git2EC2.yml)
 
-- Setting the sercret variables in GitHub `EC2_SSH_KEY `, `HOST_DNS`, `USERNAME`, `USERNAME`
+- Setting the sercret variables in GitHub `EC2_SSH_KEY`, `HOST_DNS`, `USERNAME`, `USERNAME`
 
 ### Terraform
 
